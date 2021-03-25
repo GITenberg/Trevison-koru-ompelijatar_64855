@@ -1,5 +1,8 @@
 _repo: Trevison-koru-ompelijatar_64855
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Heyse, Paul
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Paul_Heyse
     - https://de.wikipedia.org/wiki/Paul_Heyse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64855#Trevison-koru-ompelijatar
 gutenberg_issued: '2021-03-18'
 gutenberg_type: Text
 identifiers:
